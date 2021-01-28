@@ -44,10 +44,6 @@ class URLShortener {
 
 }
 
-//let short = new URLShortner()
-
-// URLShortener.shorten()
-// URLShortener.restore()
 
 
 
